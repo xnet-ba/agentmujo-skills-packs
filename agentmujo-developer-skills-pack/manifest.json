@@ -1,0 +1,34 @@
+{
+  "name": "agentmujo-developer-skills-pack",
+  "version": "1.0.0",
+  "description": "Professional software development skills for OpenCode and Agent Skills-compatible AI agents.",
+  "format": "opencode-native-agent-skills",
+  "license": "MIT",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skills": [
+    "developer",
+    "project-analysis",
+    "requirements-analysis",
+    "software-architecture",
+    "backend-development",
+    "frontend-development",
+    "api-development",
+    "database-engineering",
+    "testing-automation",
+    "systematic-debugging",
+    "code-review",
+    "refactoring",
+    "security-review",
+    "performance-engineering",
+    "git-github-workflow",
+    "documentation-engineering"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "discovery": "Each skill is a directory containing SKILL.md."
+}
