@@ -1,0 +1,20 @@
+{
+  "name": "agentmujo-core-skills-pack",
+  "version": "1.0.0",
+  "description": "Role-neutral reusable Agent Skills for AgentMujo/OpenCode.",
+  "format": "opencode-native-agent-skills",
+  "license": "MIT",
+  "skills": [
+    "skill-discovery",
+    "skill-selector",
+    "systematic-debugging",
+    "fact-checking",
+    "web-research",
+    "task-planner",
+    "workflow-orchestrator",
+    "code-review",
+    "tech-reporting",
+    "security-safety-audit"
+  ],
+  "discovery": "Each skill is a directory containing SKILL.md."
+}
