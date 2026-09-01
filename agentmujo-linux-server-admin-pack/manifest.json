@@ -1,0 +1,29 @@
+{
+  "name": "agentmujo-linux-server-admin-pack",
+  "version": "1.1.0",
+  "description": "Domain-specific Linux server administration Agent Skills pack for OpenCode.",
+  "format": "opencode-native-agent-skills",
+  "license": "MIT",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skills": [
+    "server-inventory",
+    "linux-system-admin",
+    "systemd-service-manager",
+    "server-health-check",
+    "network-diagnostics",
+    "ssh-server-management",
+    "nginx-apache-admin",
+    "docker-container-ops",
+    "backup-recovery",
+    "server-security-hardening",
+    "log-analysis-incident-response",
+    "monitoring-alerting",
+    "package-management",
+    "storage-filesystem-admin",
+    "linux-automation-runbooks",
+    "linux-server-admin"
+  ],
+  "platforms": ["linux"],
+  "primary_distros": ["ubuntu", "debian"],
+  "discovery": "Each skill is a directory containing SKILL.md."
+}
