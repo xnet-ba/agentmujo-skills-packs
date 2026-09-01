@@ -1,0 +1,26 @@
+---
+name: file-management
+description: Organize, classify and manage documents and files.
+license: MIT
+compatibility: OpenCode native Agent Skills; adapt actions to the target project, platform and available tools.
+metadata:
+  pack: agentmujo-office-worker-skills-pack
+  version: "1.0.0"
+---
+
+# File Management
+
+## Purpose
+Organize, classify and manage documents and files.
+
+Create logical file structures, naming conventions, deduplication rules and archival workflows.
+
+## Workflow
+1. Inspect the relevant context and existing conventions.
+2. Use evidence before making assumptions.
+3. Make the smallest appropriate change or recommendation.
+4. Validate results with targeted checks.
+5. Report what was observed, changed, validated and what remains.
+
+## Safety
+Respect user authorization and the boundaries of connected tools. Do not expose secrets or invent evidence. For consequential actions, verify the target and expected impact before execution.
