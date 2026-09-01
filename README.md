@@ -45,7 +45,7 @@ Architecture: Modular • Composable • Role-based • Security-oriented
 
 Available packs
 
-AgentMujo Core Skills
+## AgentMujo Core Skills ## 
 skill-discovery — Discover available skills and identify capabilities relevant to a task
 skill-selector — Select the most appropriate skills and compose them for a task
 systematic-debugging — Structured diagnosis, hypothesis testing and root-cause debugging
@@ -57,7 +57,7 @@ code-review — Analyze code for correctness, quality, security, maintainability
 tech-reporting — Produce structured technical reports, findings, changes and recommendations
 security-safety-audit — Audit skills, workflows and actions for security risks and unsafe behavior
 
-AgentMujo Linux Server Admin Skills
+## AgentMujo Linux Server Admin Skills ## 
 linux-server-admin — Main Linux Server Admin coordinator/orchestrator
 server-inventory — Server hardware, OS, services and resource inventory
 linux-system-admin — General Linux system administration
@@ -75,7 +75,7 @@ package-management — APT/package installation, updates and repository manageme
 storage-filesystem-admin — Disks, filesystems, mounts, permissions and storage
 linux-automation-runbooks — Repeatable administrative procedures and automation
 
-AgentMujo Developer Skills
+## AgentMujo Developer Skills ## 
 developer — Main Developer coordinator/orchestrator
 project-analysis — Analyze existing projects, structure, dependencies and architecture
 requirements-analysis — Convert requirements into technical specifications and implementation tasks
@@ -93,7 +93,7 @@ performance-engineering — Profile, benchmark and optimize application performa
 git-github-workflow — Manage Git, branches, commits, pull requests and releases
 documentation-engineering — Create and maintain technical documentation and developer guides
 
-AgentMujo Engineer Skills
+## AgentMujo Engineer Skills ## 
 engineer — Main Engineer coordinator/orchestrator
 systems-engineering — Analyze and design complete technical systems
 architecture-design — Create system architectures, components and technical models
@@ -111,7 +111,7 @@ quality-engineering — Define validation strategies, quality gates and engineer
 technical-documentation — Create specifications, ADRs, runbooks and engineering documentation
 engineering-review — Perform holistic technical reviews of systems and engineering solutions
 
-AgentMujo WordPress Editor Skills
+## AgentMujo WordPress Editor Skills ## 
 wordpress-editor — Main WordPress Editor coordinator/orchestrator
 article-research — Research topics, sources and background information for articles
 content-writer — Create high-quality web articles and editorial content
@@ -128,7 +128,7 @@ content-repurposing — Convert existing content into different formats and chan
 editorial-calendar — Plan, organize and maintain editorial publishing schedules
 content-audit — Audit existing content for quality, relevance, SEO and consistency
 
-AgentMujo Office Worker Skills
+## AgentMujo Office Worker Skills ## 
 office-worker — Main Office Worker coordinator/orchestrator
 email-management — Organize, classify, summarize and manage email workflows
 email-drafting — Draft professional emails, replies, announcements and correspondence
@@ -146,7 +146,7 @@ file-management — Organize, classify and manage documents and files
 process-documenter — Create SOPs, procedures, checklists and process documentation
 data-cleaning — Clean, normalize, validate and prepare structured business data
 
-In praparation
+## In praparation ## 
 AgentMujo DevOps Skills
 AgentMujo Security Skills
 AgentMujo Data Analyst Skills
