@@ -1,0 +1,33 @@
+{
+  "name": "agentmujo-wordpress-editor-skills-pack",
+  "version": "1.0.0",
+  "description": "Editorial and WordPress content-management skills for AI agents operating publishing workflows, SEO, fact checking, taxonomy and site quality.",
+  "format": "opencode-native-agent-skills",
+  "license": "MIT",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skills": [
+    "wordpress-editor",
+    "article-research",
+    "content-writer",
+    "editorial-review",
+    "fact-checking",
+    "seo-content",
+    "taxonomy-manager",
+    "media-manager",
+    "wordpress-publishing",
+    "wordpress-wpcli",
+    "wordpress-performance",
+    "wordpress-security-check",
+    "content-repurposing",
+    "editorial-calendar",
+    "content-audit"
+  ],
+  "platforms": [
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "discovery": "Each skill is a directory containing SKILL.md."
+}
