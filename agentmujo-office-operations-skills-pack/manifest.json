@@ -1,0 +1,26 @@
+{
+  "name": "agentmujo-office-operations-skills-pack",
+  "display_name": "▤ AgentMujo Office & Operations Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "role-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 15,
+  "skills": [
+    "office-worker",
+    "email-management",
+    "email-drafting",
+    "calendar-management",
+    "meeting-assistant",
+    "task-management",
+    "document-processing",
+    "spreadsheet-analysis",
+    "presentation-builder",
+    "research-assistant",
+    "report-writer",
+    "knowledge-management",
+    "workflow-automation",
+    "file-management",
+    "process-documenter"
+  ]
+}

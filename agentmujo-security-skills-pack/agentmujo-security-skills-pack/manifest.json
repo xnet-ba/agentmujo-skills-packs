@@ -1,0 +1,61 @@
+{
+  "name": "agentmujo-security-skills-pack",
+  "display_name": "\ud83d\udee1 AgentMujo Security Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skill_count": 12,
+  "skills": [
+    {
+      "name": "security-audit",
+      "description": "Main Security coordinator/orchestrator"
+    },
+    {
+      "name": "secure-coding",
+      "description": "Apply secure software development practices"
+    },
+    {
+      "name": "security-best-practices",
+      "description": "Review implementations against security best practices"
+    },
+    {
+      "name": "dependency-audit",
+      "description": "Identify vulnerable or outdated dependencies"
+    },
+    {
+      "name": "secret-detection",
+      "description": "Detect exposed passwords, API keys, tokens and secrets"
+    },
+    {
+      "name": "threat-modeling",
+      "description": "Identify threats, attack surfaces and mitigations"
+    },
+    {
+      "name": "vulnerability-analysis",
+      "description": "Analyze vulnerabilities, severity and remediation"
+    },
+    {
+      "name": "web-security",
+      "description": "Analyze common web application security risks"
+    },
+    {
+      "name": "container-security",
+      "description": "Secure Docker and containerized workloads"
+    },
+    {
+      "name": "cloud-security",
+      "description": "Secure cloud infrastructure, identities and workloads"
+    },
+    {
+      "name": "prompt-injection-defense",
+      "description": "Detect and mitigate prompt injection and agent manipulation"
+    },
+    {
+      "name": "supply-chain-security",
+      "description": "Analyze software and skill/plugin supply-chain risks"
+    }
+  ]
+}
