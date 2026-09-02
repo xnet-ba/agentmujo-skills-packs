@@ -1,0 +1,21 @@
+{
+  "name": "agentmujo-ai-llm-engineering-skills-pack",
+  "display_name": "✦ AgentMujo AI & LLM Engineering Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 10,
+  "skills": [
+    {"name":"ai-llm","description":"Main AI & LLM Engineering coordinator/orchestrator"},
+    {"name":"llm-engineering","description":"Design and integrate LLM-based systems"},
+    {"name":"prompt-engineering","description":"Design, test and optimize prompts and agent instructions"},
+    {"name":"rag","description":"Design and optimize Retrieval-Augmented Generation pipelines"},
+    {"name":"embeddings","description":"Work with embedding models, chunking and vector representations"},
+    {"name":"vector-search","description":"Design and optimize semantic and vector search"},
+    {"name":"agent-development","description":"Design autonomous and tool-using AI agents"},
+    {"name":"tool-use","description":"Design reliable tool calling, schemas and tool workflows"},
+    {"name":"model-evaluation","description":"Evaluate model quality, accuracy, reliability and regressions"},
+    {"name":"inference-optimization","description":"Optimize model inference, latency, memory and throughput"}
+  ]
+}
