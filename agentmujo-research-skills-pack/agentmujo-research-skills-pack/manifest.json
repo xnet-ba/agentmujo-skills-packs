@@ -1,0 +1,21 @@
+{
+  "name": "agentmujo-research-skills-pack",
+  "display_name": "🔎 AgentMujo Research Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 10,
+  "skills": [
+    {"name":"research","description":"Main Research coordinator/orchestrator"},
+    {"name":"web-research","description":"Conduct structured research using current web sources"},
+    {"name":"deep-research","description":"Plan and execute multi-step, evidence-rich research tasks"},
+    {"name":"source-analysis","description":"Evaluate source relevance, authority, provenance, and limitations"},
+    {"name":"fact-checking","description":"Verify claims against reliable evidence"},
+    {"name":"literature-review","description":"Organize and synthesize literature and published research"},
+    {"name":"competitive-research","description":"Research competitors, markets, products, and positioning"},
+    {"name":"data-gathering","description":"Collect structured data from multiple sources"},
+    {"name":"evidence-synthesis","description":"Combine evidence into defensible conclusions"},
+    {"name":"research-reporting","description":"Produce structured research reports with sources and findings"}
+  ]
+}

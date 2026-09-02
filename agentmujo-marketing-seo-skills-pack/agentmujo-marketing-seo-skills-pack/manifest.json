@@ -1,0 +1,27 @@
+{
+  "name": "agentmujo-marketing-seo-skills-pack",
+  "display_name": "📣 AgentMujo Marketing & SEO Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 16,
+  "skills": [
+    {"name":"marketing-seo","description":"Main Marketing & SEO coordinator/orchestrator"},
+    {"name":"marketing-strategy","description":"Develop marketing strategies, positioning and campaigns"},
+    {"name":"copywriting","description":"Create persuasive marketing and commercial copy"},
+    {"name":"copy-editing","description":"Improve clarity, tone, structure and effectiveness of copy"},
+    {"name":"content-strategy","description":"Plan content themes, formats, channels and publishing"},
+    {"name":"seo","description":"Develop and execute general SEO strategies"},
+    {"name":"seo-audit","description":"Audit websites and content for SEO issues and opportunities"},
+    {"name":"technical-seo","description":"Analyze crawling, indexing, metadata, structured data and site architecture"},
+    {"name":"programmatic-seo","description":"Design scalable SEO pages and content systems"},
+    {"name":"competitor-analysis","description":"Analyze competitors, positioning, content and search visibility"},
+    {"name":"customer-research","description":"Research audiences, needs, pain points and behavior"},
+    {"name":"conversion-optimization","description":"Improve landing pages, funnels and conversion performance"},
+    {"name":"analytics","description":"Analyze marketing and website performance data"},
+    {"name":"schema-markup","description":"Design and validate structured data and schema markup"},
+    {"name":"email-marketing","description":"Design email campaigns, sequences and newsletters"},
+    {"name":"social-content","description":"Create and optimize content for social platforms"}
+  ]
+}
