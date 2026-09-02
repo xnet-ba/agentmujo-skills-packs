@@ -1,0 +1,92 @@
+{
+  "name": "agentmujo-linux-server-admin-skills-pack",
+  "display_name": "\u25a3 AgentMujo Linux Server Admin Skills Pack",
+  "version": "2.0.0",
+  "license": "MIT",
+  "runtime": "opencode",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skills": [
+    {
+      "name": "linux-server-admin",
+      "description": "Main Linux Server Admin coordinator/orchestrator",
+      "path": "skills/linux-server-admin/SKILL.md"
+    },
+    {
+      "name": "server-inventory",
+      "description": "Inventory servers, operating systems, services, processes, resources, and configuration",
+      "path": "skills/server-inventory/SKILL.md"
+    },
+    {
+      "name": "linux-system-admin",
+      "description": "General Linux system administration and operational troubleshooting",
+      "path": "skills/linux-system-admin/SKILL.md"
+    },
+    {
+      "name": "systemd-service-manager",
+      "description": "Manage systemd units, startup, dependencies, logs, failures, and restarts",
+      "path": "skills/systemd-service-manager/SKILL.md"
+    },
+    {
+      "name": "server-health-check",
+      "description": "Check CPU, memory, disk, load, processes, uptime, and overall system health",
+      "path": "skills/server-health-check/SKILL.md"
+    },
+    {
+      "name": "network-diagnostics",
+      "description": "Diagnose DNS, routing, ports, sockets, interfaces, and connectivity",
+      "path": "skills/network-diagnostics/SKILL.md"
+    },
+    {
+      "name": "ssh-server-management",
+      "description": "Manage SSH configuration, keys, access, sessions, and troubleshooting",
+      "path": "skills/ssh-server-management/SKILL.md"
+    },
+    {
+      "name": "nginx-apache-admin",
+      "description": "Administer Nginx, Apache, reverse proxies, virtual hosts, and TLS",
+      "path": "skills/nginx-apache-admin/SKILL.md"
+    },
+    {
+      "name": "docker-container-ops",
+      "description": "Manage Docker and Docker Compose containers, images, networks, and volumes",
+      "path": "skills/docker-container-ops/SKILL.md"
+    },
+    {
+      "name": "backup-recovery",
+      "description": "Validate backups, plan recovery, test restores, and document recovery procedures",
+      "path": "skills/backup-recovery/SKILL.md"
+    },
+    {
+      "name": "server-security-hardening",
+      "description": "Harden Linux servers, access controls, firewall posture, and secure configuration",
+      "path": "skills/server-security-hardening/SKILL.md"
+    },
+    {
+      "name": "log-analysis-incident-response",
+      "description": "Analyze logs, investigate incidents, correlate evidence, and document root causes",
+      "path": "skills/log-analysis-incident-response/SKILL.md"
+    },
+    {
+      "name": "monitoring-alerting",
+      "description": "Design and operate health checks, metrics, monitoring, and alerting",
+      "path": "skills/monitoring-alerting/SKILL.md"
+    },
+    {
+      "name": "package-management",
+      "description": "Manage APT/package installation, updates, repositories, and package state",
+      "path": "skills/package-management/SKILL.md"
+    },
+    {
+      "name": "storage-filesystem-admin",
+      "description": "Manage disks, filesystems, mounts, permissions, storage, and capacity",
+      "path": "skills/storage-filesystem-admin/SKILL.md"
+    },
+    {
+      "name": "linux-automation-runbooks",
+      "description": "Create repeatable administrative runbooks and safe automation procedures",
+      "path": "skills/linux-automation-runbooks/SKILL.md"
+    }
+  ]
+}
