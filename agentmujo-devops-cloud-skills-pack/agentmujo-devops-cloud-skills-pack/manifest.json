@@ -1,0 +1,73 @@
+{
+  "name": "agentmujo-devops-cloud-skills-pack",
+  "display_name": "\u2601 AgentMujo DevOps & Cloud Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skill_count": 15,
+  "skills": [
+    {
+      "name": "devops",
+      "description": "Main DevOps & Cloud coordinator/orchestrator"
+    },
+    {
+      "name": "docker",
+      "description": "Container development, configuration and operations"
+    },
+    {
+      "name": "kubernetes",
+      "description": "Kubernetes workloads, services and troubleshooting"
+    },
+    {
+      "name": "terraform",
+      "description": "Infrastructure as Code with Terraform"
+    },
+    {
+      "name": "ansible",
+      "description": "Configuration management and server automation with Ansible"
+    },
+    {
+      "name": "ci-cd",
+      "description": "Continuous integration and continuous delivery workflows"
+    },
+    {
+      "name": "github-actions",
+      "description": "Build, test, deploy and automate with GitHub Actions"
+    },
+    {
+      "name": "infrastructure-as-code",
+      "description": "Design, review and manage infrastructure as code"
+    },
+    {
+      "name": "cloud-architecture",
+      "description": "Design scalable and resilient cloud architectures"
+    },
+    {
+      "name": "cloud-security",
+      "description": "Secure cloud infrastructure, identities and workloads"
+    },
+    {
+      "name": "cloud-networking",
+      "description": "Design and troubleshoot cloud networking"
+    },
+    {
+      "name": "cloud-monitoring",
+      "description": "Monitor cloud infrastructure, applications and services"
+    },
+    {
+      "name": "secrets-management",
+      "description": "Manage credentials, secrets and sensitive configuration"
+    },
+    {
+      "name": "container-orchestration",
+      "description": "Design and operate containerized workloads across environments"
+    },
+    {
+      "name": "cloud-cost-optimization",
+      "description": "Analyze and optimize cloud resource usage and cost"
+    }
+  ]
+}
