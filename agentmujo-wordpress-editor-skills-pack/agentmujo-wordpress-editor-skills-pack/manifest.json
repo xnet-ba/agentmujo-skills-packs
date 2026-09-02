@@ -1,0 +1,23 @@
+{
+  "name": "agentmujo-wordpress-editor-skills-pack",
+  "display_name": "✎ AgentMujo WordPress Editor Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "role-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 12,
+  "skills": [
+    {"name":"wordpress-editor","description":"Main WordPress Editor coordinator/orchestrator"},
+    {"name":"article-research","description":"Research topics, sources, and background information for articles"},
+    {"name":"content-writer","description":"Create high-quality web articles and editorial content"},
+    {"name":"editorial-review","description":"Review content for quality, structure, clarity, consistency, and style"},
+    {"name":"fact-checking","description":"Verify factual claims, dates, names, statistics, and sources"},
+    {"name":"seo-content","description":"Optimize content for search engines, titles, headings, metadata, and search intent"},
+    {"name":"taxonomy-manager","description":"Manage categories, tags, and content taxonomy"},
+    {"name":"media-manager","description":"Manage images, captions, metadata, ALT text, and media placement"},
+    {"name":"wordpress-publishing","description":"Prepare, review, schedule, and publish WordPress content"},
+    {"name":"content-repurposing","description":"Convert existing content into different formats and channels"},
+    {"name":"editorial-calendar","description":"Plan, organize, and maintain editorial publishing schedules"},
+    {"name":"content-audit","description":"Audit existing content for quality, relevance, SEO, and consistency"}
+  ]
+}
