@@ -1,0 +1,57 @@
+{
+  "name": "agentmujo-data-analytics-skills-pack",
+  "display_name": "\u25eb AgentMujo Data & Analytics Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skill_count": 11,
+  "skills": [
+    {
+      "name": "data-analytics",
+      "description": "Main Data & Analytics coordinator/orchestrator"
+    },
+    {
+      "name": "data-analysis",
+      "description": "Analyze structured and unstructured datasets"
+    },
+    {
+      "name": "data-cleaning",
+      "description": "Clean, normalize, validate and prepare data"
+    },
+    {
+      "name": "data-transformation",
+      "description": "Transform, reshape and prepare datasets for analysis"
+    },
+    {
+      "name": "data-visualization",
+      "description": "Create clear and effective data visualizations"
+    },
+    {
+      "name": "statistics",
+      "description": "Apply descriptive and inferential statistical methods"
+    },
+    {
+      "name": "sql-analysis",
+      "description": "Analyze data using SQL queries and database workflows"
+    },
+    {
+      "name": "business-intelligence",
+      "description": "Build business insights, metrics and analytical views"
+    },
+    {
+      "name": "dashboard-design",
+      "description": "Design effective analytical dashboards and KPI views"
+    },
+    {
+      "name": "analytics-engineering",
+      "description": "Build reliable analytical datasets, models and pipelines"
+    },
+    {
+      "name": "reporting",
+      "description": "Turn analytical results into structured business reports"
+    }
+  ]
+}
