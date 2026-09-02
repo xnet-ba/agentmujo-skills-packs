@@ -1,0 +1,22 @@
+{
+  "name": "agentmujo-wordpress-developer-skills-pack",
+  "display_name": "⌘ AgentMujo WordPress Developer Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "role-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 11,
+  "skills": [
+    {"name":"wp-plugin-development","description":"Develop and maintain WordPress plugins"},
+    {"name":"wp-rest-api","description":"Develop and integrate WordPress REST APIs"},
+    {"name":"wp-block-development","description":"Build Gutenberg blocks and block-based interfaces"},
+    {"name":"wp-block-themes","description":"Develop and customize modern WordPress block themes"},
+    {"name":"wp-interactivity-api","description":"Develop interactive WordPress interfaces using the Interactivity API"},
+    {"name":"wp-abilities-api","description":"Work with the WordPress Abilities API"},
+    {"name":"wp-cli","description":"Automate and administer WordPress using WP-CLI"},
+    {"name":"wp-playground","description":"Use WordPress Playground for development and testing workflows"},
+    {"name":"wordpress-testing","description":"Test WordPress plugins, themes and integrations"},
+    {"name":"wordpress-performance","description":"Analyze and optimize WordPress performance"},
+    {"name":"wordpress-security","description":"Audit and harden WordPress installations"}
+  ]
+}

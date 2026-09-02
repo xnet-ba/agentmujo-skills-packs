@@ -1,0 +1,49 @@
+{
+  "name": "agentmujo-testing-qa-skills-pack",
+  "display_name": "\ud83e\uddea AgentMujo Testing & QA Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skill_count": 9,
+  "skills": [
+    {
+      "name": "testing-qa",
+      "description": "Main Testing & QA coordinator/orchestrator"
+    },
+    {
+      "name": "test-driven-development",
+      "description": "Develop software using a TDD workflow"
+    },
+    {
+      "name": "unit-testing",
+      "description": "Design and implement effective unit tests"
+    },
+    {
+      "name": "integration-testing",
+      "description": "Test interactions between components and services"
+    },
+    {
+      "name": "e2e-testing",
+      "description": "Validate complete application workflows end-to-end"
+    },
+    {
+      "name": "webapp-testing",
+      "description": "Test web applications, UI flows and browser behavior"
+    },
+    {
+      "name": "playwright",
+      "description": "Browser automation and end-to-end testing with Playwright"
+    },
+    {
+      "name": "test-debugging",
+      "description": "Diagnose failing, flaky and unreliable tests"
+    },
+    {
+      "name": "test-review",
+      "description": "Review test quality, coverage and effectiveness"
+    }
+  ]
+}

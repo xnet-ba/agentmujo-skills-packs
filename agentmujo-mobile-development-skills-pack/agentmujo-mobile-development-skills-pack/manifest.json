@@ -1,0 +1,21 @@
+{
+  "name": "agentmujo-mobile-development-skills-pack",
+  "display_name": "📱 AgentMujo Mobile Development Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 10,
+  "skills": [
+    {"name":"mobile-development","description":"Main Mobile Development coordinator/orchestrator"},
+    {"name":"react-native","description":"Develop and maintain React Native applications"},
+    {"name":"expo","description":"Develop and manage Expo-based React Native applications"},
+    {"name":"native-ui","description":"Design and implement native mobile UI patterns"},
+    {"name":"mobile-navigation","description":"Build and manage mobile navigation flows"},
+    {"name":"mobile-data-fetching","description":"Implement mobile API, caching and data-fetching workflows"},
+    {"name":"mobile-performance","description":"Profile and optimize mobile application performance"},
+    {"name":"mobile-accessibility","description":"Build accessible and inclusive mobile interfaces"},
+    {"name":"mobile-testing","description":"Test mobile applications and user flows"},
+    {"name":"expo-upgrades","description":"Plan and execute Expo and React Native upgrades"}
+  ]
+}

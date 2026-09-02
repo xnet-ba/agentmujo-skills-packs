@@ -1,0 +1,27 @@
+{
+  "name": "agentmujo-engineer-skills-pack",
+  "display_name": "⚙ AgentMujo Engineer Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "role-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 16,
+  "skills": [
+    {"name":"engineer","description":"Main Engineer coordinator/orchestrator"},
+    {"name":"systems-engineering","description":"Analyze and design complete technical systems"},
+    {"name":"architecture-design","description":"Create system architectures, components and technical models"},
+    {"name":"technical-decision-analysis","description":"Evaluate technologies, alternatives, trade-offs and technical decisions"},
+    {"name":"reliability-engineering","description":"Design for availability, resilience, fault tolerance and recovery"},
+    {"name":"performance-engineering","description":"Analyze capacity, bottlenecks and system performance"},
+    {"name":"observability-engineering","description":"Design logging, metrics, tracing, monitoring and observability"},
+    {"name":"incident-management","description":"Manage technical incidents from detection through resolution"},
+    {"name":"root-cause-analysis","description":"Perform structured investigation and identify underlying causes"},
+    {"name":"threat-modeling","description":"Identify threats, attack surfaces and security mitigations"},
+    {"name":"risk-analysis","description":"Identify, assess and mitigate technical and operational risks"},
+    {"name":"capacity-planning","description":"Plan resources, scaling, infrastructure capacity and future demand"},
+    {"name":"automation-engineering","description":"Design and implement reliable technical automation"},
+    {"name":"quality-engineering","description":"Define validation strategies, quality gates and engineering standards"},
+    {"name":"technical-documentation","description":"Create specifications, ADRs, runbooks and engineering documentation"},
+    {"name":"engineering-review","description":"Perform holistic technical reviews of systems and engineering solutions"}
+  ]
+}

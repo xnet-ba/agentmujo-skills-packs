@@ -1,0 +1,61 @@
+{
+  "name": "agentmujo-design-ui-skills-pack",
+  "display_name": "\u25c7 AgentMujo Design & UI Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": [
+    "agentmujo-core-skills-pack"
+  ],
+  "skill_count": 12,
+  "skills": [
+    {
+      "name": "design-ui",
+      "description": "Main Design & UI coordinator/orchestrator"
+    },
+    {
+      "name": "frontend-design",
+      "description": "Design polished, production-ready frontend interfaces"
+    },
+    {
+      "name": "web-design-guidelines",
+      "description": "Apply consistent web design and usability guidelines"
+    },
+    {
+      "name": "ui-ux-design",
+      "description": "Design user experiences, interfaces and interaction flows"
+    },
+    {
+      "name": "design-system",
+      "description": "Create and maintain reusable design systems"
+    },
+    {
+      "name": "component-architecture",
+      "description": "Design scalable UI component structures"
+    },
+    {
+      "name": "visual-design",
+      "description": "Develop visual hierarchy, composition and presentation"
+    },
+    {
+      "name": "responsive-design",
+      "description": "Design interfaces for different screens and breakpoints"
+    },
+    {
+      "name": "accessibility",
+      "description": "Apply accessibility standards and inclusive design practices"
+    },
+    {
+      "name": "design-critique",
+      "description": "Evaluate interfaces and identify UX/UI improvements"
+    },
+    {
+      "name": "ui-polish",
+      "description": "Refine spacing, typography, alignment, consistency and visual details"
+    },
+    {
+      "name": "interaction-design",
+      "description": "Design interaction patterns, states and user feedback"
+    }
+  ]
+}
