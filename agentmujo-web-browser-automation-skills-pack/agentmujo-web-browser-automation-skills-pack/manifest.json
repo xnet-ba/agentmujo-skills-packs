@@ -1,0 +1,21 @@
+{
+  "name": "agentmujo-web-browser-automation-skills-pack",
+  "display_name": "🌐 AgentMujo Web & Browser Automation Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 10,
+  "skills": [
+    {"name":"web-browser","description":"Main Web & Browser Automation coordinator/orchestrator"},
+    {"name":"web-search","description":"Search the web and identify relevant online resources"},
+    {"name":"browser-automation","description":"Automate browser interactions and repeatable web workflows"},
+    {"name":"web-content-extraction","description":"Extract structured information from web pages"},
+    {"name":"web-page-testing","description":"Validate web pages, links, forms and browser behavior"},
+    {"name":"playwright","description":"Browser automation and testing with Playwright"},
+    {"name":"website-debugging","description":"Diagnose frontend, browser and website behavior"},
+    {"name":"form-automation","description":"Automate web forms and data-entry workflows"},
+    {"name":"browser-screenshots","description":"Capture and analyze browser screenshots and page states"},
+    {"name":"web-data-collection","description":"Collect structured information from multiple web sources"}
+  ]
+}

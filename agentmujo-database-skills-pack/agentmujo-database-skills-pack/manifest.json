@@ -1,0 +1,21 @@
+{
+  "name": "agentmujo-database-skills-pack",
+  "display_name": "🗄 AgentMujo Database Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 10,
+  "skills": [
+    {"name":"database","description":"Main Database coordinator/orchestrator"},
+    {"name":"database-administration","description":"Manage database instances, users, permissions and operations"},
+    {"name":"database-design","description":"Design schemas, relationships, constraints and data models"},
+    {"name":"postgresql","description":"PostgreSQL administration, queries and optimization"},
+    {"name":"mysql","description":"MySQL/MariaDB administration, queries and optimization"},
+    {"name":"redis","description":"Redis data structures, administration and operational workflows"},
+    {"name":"database-migrations","description":"Design, execute and validate schema migrations"},
+    {"name":"query-optimization","description":"Analyze and optimize slow or inefficient queries"},
+    {"name":"database-security","description":"Protect databases, access controls, credentials and sensitive data"},
+    {"name":"database-backup-recovery","description":"Backup, restore and recovery procedures for databases"}
+  ]
+}
