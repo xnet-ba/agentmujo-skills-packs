@@ -1,0 +1,26 @@
+{
+  "name": "agentmujo-marketing-ops-skills-pack",
+  "display_name": "📈 AgentMujo Marketing Ops Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 15,
+  "skills": [
+    {"name":"marketing-ops-coordinator","description":"Main Marketing Ops coordinator/orchestrator"},
+    {"name":"landing-page-cro","description":"Optimize landing pages for conversion rate"},
+    {"name":"form-cro","description":"Optimize forms for completion and conversion"},
+    {"name":"signup-flow-cro","description":"Optimize signup, registration and trial flows"},
+    {"name":"email-sequence","description":"Design email drip campaigns and nurture sequences"},
+    {"name":"cold-email","description":"Write and optimize B2B cold outreach emails"},
+    {"name":"paid-ads-google","description":"Create and optimize Google Ads campaigns"},
+    {"name":"paid-ads-meta","description":"Create and optimize Meta (Facebook/Instagram) ad campaigns"},
+    {"name":"paid-ads-linkedin","description":"Create and optimize LinkedIn Ads campaigns"},
+    {"name":"analytics-tracking","description":"Set up and configure analytics tracking (GA4, GTM)"},
+    {"name":"campaign-analytics","description":"Analyze campaign performance and ROI"},
+    {"name":"conversion-funnel","description":"Design and optimize conversion funnels"},
+    {"name":"referral-program","description":"Design referral and affiliate programs"},
+    {"name":"ab-test-optimizer","description":"Design and interpret A/B tests for marketing"},
+    {"name":"growth-loops","description":"Design compounding growth loops and PLG mechanics"}
+  ]
+}

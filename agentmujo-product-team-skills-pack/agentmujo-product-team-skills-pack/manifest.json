@@ -1,0 +1,26 @@
+{
+  "name": "agentmujo-product-team-skills-pack",
+  "display_name": "🎯 AgentMujo Product Team Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 15,
+  "skills": [
+    {"name":"product-coordinator","description":"Main Product Team coordinator/orchestrator"},
+    {"name":"product-manager","description":"Product framing, prioritization and feature shaping"},
+    {"name":"product-strategist","description":"Product vision, roadmap and quarterly planning"},
+    {"name":"product-discovery","description":"Validate opportunities and test problem-solution fit"},
+    {"name":"product-research","description":"Plan and synthesize user and product research"},
+    {"name":"feature-forge","description":"Write requirements, user stories and acceptance criteria"},
+    {"name":"prd-writer","description":"Create structured Product Requirements Documents"},
+    {"name":"competitive-teardown","description":"Analyze competitors and market positioning"},
+    {"name":"launch-strategy","description":"Plan and execute product launches"},
+    {"name":"pricing-strategy","description":"Design SaaS pricing models and packaging"},
+    {"name":"assumption-mapping","description":"Surface and prioritize risky assumptions"},
+    {"name":"experiment-designer","description":"Design product experiments and A/B tests"},
+    {"name":"ux-heuristics","description":"Evaluate interfaces against usability principles"},
+    {"name":"ux-researcher","description":"Plan and conduct UX research studies"},
+    {"name":"roadmap-planner","description":"Build and communicate product roadmaps"}
+  ]
+}

@@ -42,13 +42,17 @@ AgentMujo Skills Pack
 │
 └── Specialist Packs
     ├── DevOps & Cloud
+    ├── DevOps & SRE
     ├── Security
+    ├── Compliance Shield
     ├── Database
     ├── Testing & QA
     ├── Web & Browser Automation
     ├── Design & UI
     ├── Mobile Development
     ├── Marketing & SEO
+    ├── Marketing Ops
+    ├── Product Team
     ├── Research
     ├── AI & LLM Engineering
     └── Data & Analytics
@@ -364,3 +368,75 @@ business-intelligence — Build business insights, metrics and analytical views
 dashboard-design — Design effective analytical dashboards and KPI views
 analytics-engineering — Build reliable analytical datasets, models and pipelines
 reporting — Turn analytical results into structured business reports
+
+🛡 AgentMujo Compliance Shield Skills
+
+compliance-coordinator — Main Compliance Shield coordinator/orchestrator
+soc2-compliance — SOC 2 Type I and Type II compliance readiness
+soc2-audit-prep — SOC 2 audit preparation and evidence collection
+gdpr-compliance — GDPR and CCPA/CPRA data protection compliance
+hipaa-compliance — HIPAA compliance for healthcare products
+iso27001-audit-prep — ISO 27001 ISMS audit preparation
+isms-implementation — Design and implement Information Security Management Systems
+eu-ai-act-specialist — EU AI Act compliance and risk classification
+compliance-auditor — Conduct internal compliance audits across frameworks
+incident-response — Security incident classification, triage and response
+incident-commander — Lead technical incident response from detection to resolution
+risk-manager — Identify, assess and mitigate compliance and operational risks
+security-reviewer — Security audit and vulnerability analysis
+quality-management-iso13485 — ISO 13485 QMS for medical device organizations
+fda-regulatory — FDA regulatory pathways for medical devices
+audit-evidence-collector — Collect, organize and maintain audit evidence artifacts
+
+🎯 AgentMujo Product Team Skills
+
+product-coordinator — Main Product Team coordinator/orchestrator
+product-manager — Product framing, prioritization and feature shaping
+product-strategist — Product vision, roadmap and quarterly planning
+product-discovery — Validate opportunities and test problem-solution fit
+product-research — Plan and synthesize user and product research
+feature-forge — Write requirements, user stories and acceptance criteria
+prd-writer — Create structured Product Requirements Documents
+competitive-teardown — Analyze competitors and market positioning
+launch-strategy — Plan and execute product launches
+pricing-strategy — Design SaaS pricing models and packaging
+assumption-mapping — Surface and prioritize risky assumptions
+experiment-designer — Design product experiments and A/B tests
+ux-heuristics — Evaluate interfaces against usability principles
+ux-researcher — Plan and conduct UX research studies
+roadmap-planner — Build and communicate product roadmaps
+
+📈 AgentMujo Marketing Ops Skills
+
+marketing-ops-coordinator — Main Marketing Ops coordinator/orchestrator
+landing-page-cro — Optimize landing pages for conversion rate
+form-cro — Optimize forms for completion and conversion
+signup-flow-cro — Optimize signup, registration and trial flows
+email-sequence — Design email drip campaigns and nurture sequences
+cold-email — Write and optimize B2B cold outreach emails
+paid-ads-google — Create and optimize Google Ads campaigns
+paid-ads-meta — Create and optimize Meta (Facebook/Instagram) ad campaigns
+paid-ads-linkedin — Create and optimize LinkedIn Ads campaigns
+analytics-tracking — Set up and configure analytics tracking (GA4, GTM)
+campaign-analytics — Analyze campaign performance and ROI
+conversion-funnel — Design and optimize conversion funnels
+referral-program — Design referral and affiliate programs
+ab-test-optimizer — Design and interpret A/B tests for marketing
+growth-loops — Design compounding growth loops and PLG mechanics
+
+🔧 AgentMujo DevOps SRE Skills
+
+sre-coordinator — Main DevOps SRE coordinator/orchestrator
+slo-designer — Define and review Service Level Objectives
+error-budget-manager — Track and manage SLO error budgets
+monitoring-stack — Design and operate monitoring infrastructure
+observability-designer — Design observability across metrics, logs and traces
+alerting-optimizer — Design and tune alerting rules and on-call
+incident-postmortem — Conduct blameless post-incident reviews
+chaos-engineer — Design and run chaos engineering experiments
+feature-flags — Design and manage feature flag systems
+canary-deployment — Design canary and progressive delivery pipelines
+runbook-automation — Create and automate operational runbooks
+capacity-planner — Plan infrastructure capacity and scaling
+performance-engineer — Profile, benchmark and optimize performance
+reliability-architect — Design for reliability, resilience and fault tolerance

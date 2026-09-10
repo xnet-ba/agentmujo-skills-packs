@@ -1,0 +1,27 @@
+{
+  "name": "agentmujo-compliance-shield-skills-pack",
+  "display_name": "🛡 AgentMujo Compliance Shield Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 16,
+  "skills": [
+    {"name":"compliance-coordinator","description":"Main Compliance Shield coordinator/orchestrator"},
+    {"name":"soc2-compliance","description":"SOC 2 Type I and Type II compliance readiness"},
+    {"name":"soc2-audit-prep","description":"SOC 2 audit preparation and evidence collection"},
+    {"name":"gdpr-compliance","description":"GDPR and CCPA/CPRA data protection compliance"},
+    {"name":"hipaa-compliance","description":"HIPAA compliance for healthcare products"},
+    {"name":"iso27001-audit-prep","description":"ISO 27001 ISMS audit preparation"},
+    {"name":"isms-implementation","description":"Design and implement Information Security Management Systems"},
+    {"name":"eu-ai-act-specialist","description":"EU AI Act compliance and risk classification"},
+    {"name":"compliance-auditor","description":"Conduct internal compliance audits across frameworks"},
+    {"name":"incident-response","description":"Security incident classification, triage and response"},
+    {"name":"incident-commander","description":"Lead technical incident response from detection to resolution"},
+    {"name":"risk-manager","description":"Identify, assess and mitigate compliance and operational risks"},
+    {"name":"security-reviewer","description":"Security audit and vulnerability analysis"},
+    {"name":"quality-management-iso13485","description":"ISO 13485 QMS for medical device organizations"},
+    {"name":"fda-regulatory","description":"FDA regulatory pathways for medical devices"},
+    {"name":"audit-evidence-collector","description":"Collect, organize and maintain audit evidence artifacts"}
+  ]
+}

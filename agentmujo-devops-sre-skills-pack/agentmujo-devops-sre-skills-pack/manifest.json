@@ -1,0 +1,25 @@
+{
+  "name": "agentmujo-devops-sre-skills-pack",
+  "display_name": "🔧 AgentMujo DevOps SRE Skills Pack",
+  "version": "2.0.0",
+  "platform": "opencode",
+  "type": "specialist-pack",
+  "depends_on": ["agentmujo-core-skills-pack"],
+  "skill_count": 14,
+  "skills": [
+    {"name":"sre-coordinator","description":"Main DevOps SRE coordinator/orchestrator"},
+    {"name":"slo-designer","description":"Define and review Service Level Objectives"},
+    {"name":"error-budget-manager","description":"Track and manage SLO error budgets"},
+    {"name":"monitoring-stack","description":"Design and operate monitoring infrastructure"},
+    {"name":"observability-designer","description":"Design observability across metrics, logs and traces"},
+    {"name":"alerting-optimizer","description":"Design and tune alerting rules and on-call"},
+    {"name":"incident-postmortem","description":"Conduct blameless post-incident reviews"},
+    {"name":"chaos-engineer","description":"Design and run chaos engineering experiments"},
+    {"name":"feature-flags","description":"Design and manage feature flag systems"},
+    {"name":"canary-deployment","description":"Design canary and progressive delivery pipelines"},
+    {"name":"runbook-automation","description":"Create and automate operational runbooks"},
+    {"name":"capacity-planner","description":"Plan infrastructure capacity and scaling"},
+    {"name":"performance-engineer","description":"Profile, benchmark and optimize performance"},
+    {"name":"reliability-architect","description":"Design for reliability, resilience and fault tolerance"}
+  ]
+}
