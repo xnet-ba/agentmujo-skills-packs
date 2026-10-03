@@ -1,0 +1,1 @@
+{"depends_on":["agentmujo-core-skills-pack"],"display_name":"AgentMujo EU AI Act Article 4 Skills Pack","name":"agentmujo-eu-ai-act-article-4-skills-pack","platform":"opencode","skill_count":1,"skills":[{"description":"Enforce EU AI Act Article 4 AI literacy for providers and deployers","name":"eu-ai-act-article-4"}],"type":"specialist-pack","version":"1.0.0"}
