@@ -81,7 +81,37 @@ Architecture: Modular • Composable • Role-based • Security-oriented
 
 ## Available packs
 
-◈ AgentMujo Core Skills
+
+**23 paketa** — klikni za skillove pojedinog paketa:
+
+- **◈ AgentMujo Core Skills** (16)
+- **▣ AgentMujo Linux Server Admin Skills** (16)
+- **⌘ AgentMujo Developer Skills** (21)
+- **⚙ AgentMujo Engineer Skills** (16)
+- **✎ AgentMujo WordPress Editor Skills** (12)
+- **⌘ AgentMujo WordPress Developer Skills** (11)
+- **▤ AgentMujo Office & Operations Skills** (16)
+- **▤ AgentMujo Office & Operations Skills** (16)
+- **☁ AgentMujo DevOps & Cloud Skills** (15)
+- **🛡 AgentMujo Security Skills** (12)
+- **🗄 AgentMujo Database Skills** (10)
+- **🧪 AgentMujo Testing & QA Skills** (9)
+- **🌐 AgentMujo Web & Browser Automation Skills** (10)
+- **◇ AgentMujo Design & UI Skills** (12)
+- **📱 AgentMujo Mobile Development Skills** (10)
+- **📣 AgentMujo Marketing & SEO Skills** (16)
+- **🔎 AgentMujo Research Skills** (10)
+- **✦ AgentMujo AI & LLM Engineering Skills** (10)
+- **◫ AgentMujo Data & Analytics Skills** (11)
+- **🛡 AgentMujo Compliance Shield Skills** (16)
+- **🎯 AgentMujo Product Team Skills** (15)
+- **📈 AgentMujo Marketing Ops Skills** (15)
+- **🔧 AgentMujo DevOps SRE Skills** (15)
+
+
+<details>
+<summary><b>◈ AgentMujo Core Skills (16)</b></summary>
+
 
 skill-discovery — Discover available skills and identify capabilities relevant to a task
 skill-selector — Select the most appropriate skills and compose them for a task
@@ -100,7 +130,11 @@ parallel-task-dispatch — Coordinate independent tasks and parallel agent workf
 conflict-resolution — Resolve conflicting requirements, changes and implementation states
 knowledge-synthesis — Combine research, evidence and technical information into actionable conclusions
 
-▣ AgentMujo Linux Server Admin Skills
+</details>
+
+<details>
+<summary><b>▣ AgentMujo Linux Server Admin Skills (16)</b></summary>
+
 
 linux-server-admin — Main Linux Server Admin coordinator/orchestrator
 server-inventory — Server hardware, OS, services and resource inventory
@@ -119,7 +153,11 @@ package-management — APT/package installation, updates and repository manageme
 storage-filesystem-admin — Disks, filesystems, mounts, permissions and storage
 linux-automation-runbooks — Repeatable administrative procedures and automation
 
-⌘ AgentMujo Developer Skills
+</details>
+
+<details>
+<summary><b>⌘ AgentMujo Developer Skills (21)</b></summary>
+
 
 developer — Main Developer coordinator/orchestrator
 project-analysis — Analyze existing projects, structure, dependencies and architecture
@@ -143,7 +181,11 @@ git-github-workflow — Manage Git, branches, commits, pull requests and release
 merge-conflict-resolution — Diagnose and resolve Git merge conflicts
 documentation-engineering — Create and maintain technical documentation and developer guides
 
-⚙ AgentMujo Engineer Skills
+</details>
+
+<details>
+<summary><b>⚙ AgentMujo Engineer Skills (16)</b></summary>
+
 
 engineer — Main Engineer coordinator/orchestrator
 systems-engineering — Analyze and design complete technical systems
@@ -162,7 +204,11 @@ quality-engineering — Define validation strategies, quality gates and engineer
 technical-documentation — Create specifications, ADRs, runbooks and engineering documentation
 engineering-review — Perform holistic technical reviews of systems and engineering solutions
 
-✎ AgentMujo WordPress Editor Skills
+</details>
+
+<details>
+<summary><b>✎ AgentMujo WordPress Editor Skills (12)</b></summary>
+
 
 wordpress-editor — Main WordPress Editor coordinator/orchestrator
 article-research — Research topics, sources and background information for articles
@@ -177,7 +223,11 @@ content-repurposing — Convert existing content into different formats and chan
 editorial-calendar — Plan, organize and maintain editorial publishing schedules
 content-audit — Audit existing content for quality, relevance, SEO and consistency
 
-⌘ AgentMujo WordPress Developer Skills
+</details>
+
+<details>
+<summary><b>⌘ AgentMujo WordPress Developer Skills (11)</b></summary>
+
 
 wp-plugin-development — Develop and maintain WordPress plugins
 wp-rest-api — Develop and integrate WordPress REST APIs
@@ -191,7 +241,11 @@ wordpress-testing — Test WordPress plugins, themes and integrations
 wordpress-performance — Analyze and optimize WordPress performance
 wordpress-security — Audit and harden WordPress installations
 
-▤ AgentMujo Office & Operations Skills
+</details>
+
+<details>
+<summary><b>▤ AgentMujo Office & Operations Skills (16)</b></summary>
+
 
 office-worker — Main Office Worker coordinator/orchestrator
 email-management — Organize, classify, summarize and manage email workflows
@@ -210,7 +264,11 @@ file-management — Organize, classify and manage documents and files
 process-documenter — Create SOPs, procedures, checklists and process documentation
 data-cleaning — Clean, normalize, validate and prepare structured business data
 
-▤ AgentMujo Office & Operations Skills
+</details>
+
+<details>
+<summary><b>▤ AgentMujo Office & Operations Skills (16)</b></summary>
+
 
 office-worker — Main Office & Operations coordinator/orchestrator
 email-management — Organize, classify, summarize and manage email workflows
@@ -229,7 +287,11 @@ file-management — Organize, classify and manage documents and files
 process-documenter — Create SOPs, procedures, checklists and process documentation
 data-cleaning — Clean, normalize, validate and prepare structured business data
 
-☁ AgentMujo DevOps & Cloud Skills
+</details>
+
+<details>
+<summary><b>☁ AgentMujo DevOps & Cloud Skills (15)</b></summary>
+
 
 devops — Main DevOps & Cloud coordinator/orchestrator
 docker — Container development, configuration and operations
@@ -247,7 +309,11 @@ secrets-management — Manage credentials, secrets and sensitive configuration
 container-orchestration — Design and operate containerized workloads across environments
 cloud-cost-optimization — Analyze and optimize cloud resource usage and cost
 
-🛡 AgentMujo Security Skills
+</details>
+
+<details>
+<summary><b>🛡 AgentMujo Security Skills (12)</b></summary>
+
 
 security-audit — Main Security coordinator/orchestrator
 secure-coding — Apply secure software development practices
@@ -262,7 +328,11 @@ cloud-security — Secure cloud infrastructure, identities and workloads
 prompt-injection-defense — Detect and mitigate prompt injection and agent manipulation
 supply-chain-security — Analyze software and skill/plugin supply-chain risks
 
-🗄 AgentMujo Database Skills
+</details>
+
+<details>
+<summary><b>🗄 AgentMujo Database Skills (10)</b></summary>
+
 
 database — Main Database coordinator/orchestrator
 database-administration — Manage database instances, users, permissions and operations
@@ -275,7 +345,11 @@ query-optimization — Analyze and optimize slow or inefficient queries
 database-security — Protect databases, access controls, credentials and sensitive data
 database-backup-recovery — Backup, restore and recovery procedures for databases
 
-🧪 AgentMujo Testing & QA Skills
+</details>
+
+<details>
+<summary><b>🧪 AgentMujo Testing & QA Skills (9)</b></summary>
+
 
 testing-qa — Main Testing & QA coordinator/orchestrator
 test-driven-development — Develop software using a TDD workflow
@@ -287,7 +361,11 @@ playwright — Browser automation and end-to-end testing with Playwright
 test-debugging — Diagnose failing, flaky and unreliable tests
 test-review — Review test quality, coverage and effectiveness
 
-🌐 AgentMujo Web & Browser Automation Skills
+</details>
+
+<details>
+<summary><b>🌐 AgentMujo Web & Browser Automation Skills (10)</b></summary>
+
 
 web-browser — Main Web & Browser Automation coordinator/orchestrator
 web-search — Search the web and identify relevant online resources
@@ -300,7 +378,11 @@ form-automation — Automate web forms and data-entry workflows
 browser-screenshots — Capture and analyze browser screenshots and page states
 web-data-collection — Collect structured information from multiple web sources
 
-◇ AgentMujo Design & UI Skills
+</details>
+
+<details>
+<summary><b>◇ AgentMujo Design & UI Skills (12)</b></summary>
+
 
 design-ui — Main Design & UI coordinator/orchestrator
 frontend-design — Design polished, production-ready frontend interfaces
@@ -315,7 +397,11 @@ design-critique — Evaluate interfaces and identify UX/UI improvements
 ui-polish — Refine spacing, typography, alignment, consistency and visual details
 interaction-design — Design interaction patterns, states and user feedback
 
-📱 AgentMujo Mobile Development Skills
+</details>
+
+<details>
+<summary><b>📱 AgentMujo Mobile Development Skills (10)</b></summary>
+
 
 mobile-development — Main Mobile Development coordinator/orchestrator
 react-native — Develop and maintain React Native applications
@@ -328,7 +414,11 @@ mobile-accessibility — Build accessible and inclusive mobile interfaces
 mobile-testing — Test mobile applications and user flows
 expo-upgrades — Plan and execute Expo and React Native upgrades
 
-📣 AgentMujo Marketing & SEO Skills
+</details>
+
+<details>
+<summary><b>📣 AgentMujo Marketing & SEO Skills (16)</b></summary>
+
 
 marketing-seo — Main Marketing & SEO coordinator/orchestrator
 marketing-strategy — Develop marketing strategies, positioning and campaigns
@@ -347,7 +437,11 @@ schema-markup — Design and validate structured data and schema markup
 email-marketing — Design email campaigns, sequences and newsletters
 social-content — Create and optimize content for social platforms
 
-🔎 AgentMujo Research Skills
+</details>
+
+<details>
+<summary><b>🔎 AgentMujo Research Skills (10)</b></summary>
+
 
 research — Main Research coordinator/orchestrator
 web-research — Conduct structured web research and synthesize findings
@@ -359,7 +453,12 @@ competitive-research — Research competitors, markets and positioning
 data-gathering — Collect and structure research data
 evidence-synthesis — Combine evidence from multiple sources into conclusions
 research-reporting — Produce structured research reports and findings
-✦ AgentMujo AI & LLM Engineering Skills
+
+</details>
+
+<details>
+<summary><b>✦ AgentMujo AI & LLM Engineering Skills (10)</b></summary>
+
 ai-llm — Main AI & LLM Engineering coordinator/orchestrator
 llm-engineering — Design and integrate LLM-based systems
 prompt-engineering — Design, test and optimize prompts and agent instructions
@@ -371,7 +470,11 @@ tool-use — Design reliable tool calling, schemas and tool workflows
 model-evaluation — Evaluate model quality, accuracy, reliability and regressions
 inference-optimization — Optimize model inference, latency, memory and throughput
 
-◫ AgentMujo Data & Analytics Skills
+</details>
+
+<details>
+<summary><b>◫ AgentMujo Data & Analytics Skills (11)</b></summary>
+
 
 data-analytics — Main Data & Analytics coordinator/orchestrator
 data-analysis — Analyze structured and unstructured datasets
@@ -385,7 +488,11 @@ dashboard-design — Design effective analytical dashboards and KPI views
 analytics-engineering — Build reliable analytical datasets, models and pipelines
 reporting — Turn analytical results into structured business reports
 
-🛡 AgentMujo Compliance Shield Skills
+</details>
+
+<details>
+<summary><b>🛡 AgentMujo Compliance Shield Skills (16)</b></summary>
+
 
 compliance-coordinator — Main Compliance Shield coordinator/orchestrator
 soc2-compliance — SOC 2 Type I and Type II compliance readiness
@@ -404,7 +511,11 @@ quality-management-iso13485 — ISO 13485 QMS for medical device organizations
 fda-regulatory — FDA regulatory pathways for medical devices
 audit-evidence-collector — Collect, organize and maintain audit evidence artifacts
 
-🎯 AgentMujo Product Team Skills
+</details>
+
+<details>
+<summary><b>🎯 AgentMujo Product Team Skills (15)</b></summary>
+
 
 product-coordinator — Main Product Team coordinator/orchestrator
 product-manager — Product framing, prioritization and feature shaping
@@ -422,7 +533,11 @@ ux-heuristics — Evaluate interfaces against usability principles
 ux-researcher — Plan and conduct UX research studies
 roadmap-planner — Build and communicate product roadmaps
 
-📈 AgentMujo Marketing Ops Skills
+</details>
+
+<details>
+<summary><b>📈 AgentMujo Marketing Ops Skills (15)</b></summary>
+
 
 marketing-ops-coordinator — Main Marketing Ops coordinator/orchestrator
 landing-page-cro — Optimize landing pages for conversion rate
@@ -440,7 +555,11 @@ referral-program — Design referral and affiliate programs
 ab-test-optimizer — Design and interpret A/B tests for marketing
 growth-loops — Design compounding growth loops and PLG mechanics
 
-🔧 AgentMujo DevOps SRE Skills
+</details>
+
+<details>
+<summary><b>🔧 AgentMujo DevOps SRE Skills (15)</b></summary>
+
 
 sre-coordinator — Main DevOps SRE coordinator/orchestrator
 slo-designer — Define and review Service Level Objectives
@@ -456,6 +575,14 @@ runbook-automation — Create and automate operational runbooks
 capacity-planner — Plan infrastructure capacity and scaling
 performance-engineer — Profile, benchmark and optimize performance
 reliability-architect — Design for reliability, resilience and fault tolerance
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/xnet-ba/xnet-ba/main/assets/divider.svg" width="100%" alt=""/>
+<sup>part of <a href="https://github.com/xnet-ba">xnet-ba matrix</a> — open-source AI iz BiH</sup>
+</div>
+
+</details>
 
 ---
 
