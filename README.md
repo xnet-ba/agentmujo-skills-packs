@@ -82,7 +82,7 @@ Architecture: Modular • Composable • Role-based • Security-oriented
 ## Available packs
 
 
-**23 paketa** — klikni za skillove pojedinog paketa:
+**22 paketa** — klikni za skillove pojedinog paketa:
 
 - **◈ AgentMujo Core Skills** (16)
 - **▣ AgentMujo Linux Server Admin Skills** (16)
@@ -90,7 +90,6 @@ Architecture: Modular • Composable • Role-based • Security-oriented
 - **⚙ AgentMujo Engineer Skills** (16)
 - **✎ AgentMujo WordPress Editor Skills** (12)
 - **⌘ AgentMujo WordPress Developer Skills** (11)
-- **▤ AgentMujo Office & Operations Skills** (16)
 - **▤ AgentMujo Office & Operations Skills** (16)
 - **☁ AgentMujo DevOps & Cloud Skills** (15)
 - **🛡 AgentMujo Security Skills** (12)
@@ -243,28 +242,6 @@ wordpress-security — Audit and harden WordPress installations
 
 </details>
 
-<details>
-<summary><b>▤ AgentMujo Office & Operations Skills (16)</b></summary>
-
-
-office-worker — Main Office Worker coordinator/orchestrator
-email-management — Organize, classify, summarize and manage email workflows
-email-drafting — Draft professional emails, replies, announcements and correspondence
-calendar-management — Manage schedules, appointments, meetings and calendar workflows
-meeting-assistant — Prepare agendas, meeting notes, decisions and follow-up actions
-task-management — Organize tasks, priorities, deadlines and work queues
-document-processing — Create, edit, transform, extract and analyze business documents
-spreadsheet-analysis — Analyze, clean, transform and summarize spreadsheet data
-presentation-builder — Create structured business presentations and slide content
-research-assistant — Research topics and summarize reliable information
-report-writer — Produce structured business reports, summaries and analyses
-knowledge-management — Organize information, notes, references and organizational knowledge
-workflow-automation — Automate repetitive administrative and office workflows
-file-management — Organize, classify and manage documents and files
-process-documenter — Create SOPs, procedures, checklists and process documentation
-data-cleaning — Clean, normalize, validate and prepare structured business data
-
-</details>
 
 <details>
 <summary><b>▤ AgentMujo Office & Operations Skills (16)</b></summary>
